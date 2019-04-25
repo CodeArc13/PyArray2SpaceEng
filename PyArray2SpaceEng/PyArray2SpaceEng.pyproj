@@ -21,7 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Circle.py" />
+    <Compile Include="Line.py" />
     <Compile Include="PyArray2SpaceEng.py" />
+    <Compile Include="Sphere.py" />
+    <Compile Include="StraightLine.py" />
+    <Compile Include="Toroid.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
