@@ -23,7 +23,7 @@ if os.path.isdir(bluePrintFolder):
     bluePrintFolder = bluePrintsDir + idNameNumbered
 
 
-userName = "PyArray2SpaceEng"
+userName = "BravelyBoldSirRobin"
 workshopIdNumber = "0"
 ownerSteamIdNumber = "0"
 pointsNumber = "0"
